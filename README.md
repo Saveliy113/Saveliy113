@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-My name is Saveliy and I'm a beginner frontend developer with a passion for creating beautiful and intuitive user interfaces.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Started my way in programming in september 2022 and continue constantly learning and exploring new technologies and frameworks to improve my skills and build more engaging websites.
+My name is Saveliy and I'm a beginner frontend developer with a passion for creating beautiful and intuitive user interfaces.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Started my way in programming in september 2022, continue constantly learning and exploring new technologies to improve my skills and build more engaging websites.
 
 Have an experience in HTML, CSS, JS, React, Node.js, and worked with projects ranging from simple landing pages to more complex web applications. Like to create something that not only looks great, but also accessible and user-friendly.
 
