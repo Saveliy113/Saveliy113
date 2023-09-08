@@ -42,6 +42,8 @@ Feel free to check out my Github profile to see some of my work and get in touch
 
 ---
 
+[![Codewars Badge](https://www.codewars.com/users/Saveliy113/badges/large)](https://www.codewars.com/users/Saveliy113)
+
 ### ⚙️ GitHub statistics:
 
 <table>
