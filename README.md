@@ -7,6 +7,7 @@
 I’m Saveliy — Fullstack JavaScript Developer with over two years of real production experience, working on systems in banking, telecommunications, and CRM solutions. I’ve built and scaled web applications, developed automation services and a chat-agent system, and contributed to complex enterprise modules.
 
 I work confidently across the stack — from backend development with Node.js to frontend development with Vue and React — and I also have experience with Golang. My focus is building stable, scalable, and maintainable systems that run in real-world environments.
+
 ---
 
 ### 🤝 Social media:
